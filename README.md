@@ -1,1 +1,1 @@
-# Object-Counting-and-Tracking-in-Videos-using-YOLO-and-Advanced-Techniques
+# Object-Counting-and-Tracking-in-Videos-using-YOLO8-and-Advanced-Techniques
